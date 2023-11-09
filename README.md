@@ -6,4 +6,5 @@ The proposed system operates by enabling players to hold down the mouse button a
 This approach offers an engaging and responsive combat experience, providing players with the flexibility to adapt to various in-game scenarios. The key elements of this system include handling user input, determining attack direction, triggering animations, implementing dodging mechanics, enforcing cooldowns for both attacks and dodges, and enhancing feedback through visual effects and animations. The ultimate goal is to create a well-balanced and rewarding combat system that encourages strategic play.
 
 I use Raycasy Hitbox 4.01 for hit box detection https://devforum.roblox.com/t/raycast-hitbox-401-for-all-your-melee-needs/374482/581
-![FightingSystem](https://github.com/DnipeT/FightingSystem/assets/118316586/5c78b183-8e9b-4c29-91c8-52ecc9c05d40)
+![image](https://github.com/DnipeT/FightingSystem/assets/118316586/c5e173d8-9613-4679-966d-ccac34b5989a)
+
